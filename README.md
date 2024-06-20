@@ -1,5 +1,9 @@
 # EBNF Rules and Test Programs
 
+## Usage Instructions:
+- The **EBNF Rules** section defines the grammar rules for the hypothetical imperative programming language.
+- The **Test Programs** section provides various examples of programs that either follow the rules or contain specific syntax errors.
+
 ## EBNF Rules
 
 - `<program> -> program begin <statement_list> end`
@@ -105,8 +109,3 @@ fi (var1 < var2) then
 
 end
 ```
-```
-
-### Usage Instructions:
-- The **EBNF Rules** section defines the grammar rules for the hypothetical imperative programming language.
-- The **Test Programs** section provides various examples of programs that either follow the rules or contain specific syntax errors.
